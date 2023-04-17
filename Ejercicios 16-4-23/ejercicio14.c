@@ -2,8 +2,7 @@
 int main()
 {
     int i,sum;
-    
-    
+    printf("-------------Bienvenido--------- \n");
     printf("Los primeros 20 multiplos de 3 son:\n");
     for(i=1; i<= 20; i++){
     sum=3*i;
