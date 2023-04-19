@@ -5,7 +5,7 @@ int main()
     int i;
     printf("-------------Bienvenido--------- \n");
     printf("Los numeros del 1 al 10 en orden descendente son:\n");
-    // Se utiliza ciclo For para que vaya imprimiendo el numero menor al anterior, hasta llegar al 1.
+    // Se utiliza ciclo For para que vaya imprimiendo el numero menor al anterior, desde el numero 10 hasta llegar al numero 1.
     for (i=10; i>=1; i--){
         printf( "%d ", i); 
   }
